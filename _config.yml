@@ -41,7 +41,7 @@ features                                  :
     
   - title                                 : Pay for what you ordered
     description                           : Split the bill and make everyone pay for what they ordered.
-    fontawesome_icon_name                 : fa-money-bill-transfer
+    fontawesome_icon_name                 : fa-solid fa-money-bill-transfer
     
   - title                                 : Birthday Mode
     description                           : Birthday mode lets you designate who eats free and fairly divides their order amongst everyone else.
