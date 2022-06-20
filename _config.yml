@@ -13,7 +13,7 @@ presskit_download_link                    :                                     
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Never get screwed at lunch again. PocketDiner is not just a mere tip calculator - it's designed to be the do-everything toolkit for those who eat out in an office setting. No one counts dollars and cents when eating with friends, but face it - your coworkers are deadbeats.
+app_description                           : Never get screwed at lunch again! The goal of PocketDiner is to allow you to calculate to the cent what each person owes - taking into account shared food, divided tax & tip according to what was ordered, or who's birthday it is - all while minimizing data entry.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -37,7 +37,7 @@ features                                  :
 
   - title                                 : Split Food Fairly
     description                           : This app is for you, when just dividing by the number people is too simple. Keep track of what everyone orders and what is shared.
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : sandwich
     
   - title                                 : # New Feature Title
     description                           : # New Feature Description
