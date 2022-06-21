@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 # Changelog
-Want to know what has changed in PocketDiner.  Check out it out below.  
+Want to know what has changed in PocketDiner.  Check out the versions below. 
 
 <br>
 
