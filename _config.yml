@@ -37,11 +37,11 @@ features                                  :
 
   - title                                 : Split Food Fairly
     description                           : This app is for you, when just dividing by the number people is too simple. Keep track of what everyone orders and what is shared.
-    fontawesome_icon_name                 : burger
+    fontawesome_icon_name                 : pizza-slice
     
   - title                                 : Pay for what you ordered
     description                           : Split the bill and make everyone pay for what they ordered.
-    fontawesome_icon_name                 : money
+    fontawesome_icon_name                 : utensils
     
   - title                                 : Birthday Mode
     description                           : Birthday mode lets you designate who eats free and fairly divides their order amongst everyone else.
@@ -49,7 +49,7 @@ features                                  :
     
   - title                                 : Tax and Tip 
     description                           : Adjustable tax and tip rates
-    fontawesome_icon_name                 : dollar 
+    fontawesome_icon_name                 : money-bill 
     
   - title                                 : Share Food Costs Easily
     description                           : Share food with one person in the group or with everyone in the group and split the cost only for those who need to pay.
