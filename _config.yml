@@ -41,19 +41,19 @@ features                                  :
     
   - title                                 : Pay for what you ordered
     description                           : Split the bill and make everyone pay for what they ordered.
-    fontawesome_icon_name                 : fa-solid fa-money-bill-transfer
+    fontawesome_icon_name                 : fa-money
     
   - title                                 : Birthday Mode
     description                           : Birthday mode lets you designate who eats free and fairly divides their order amongst everyone else.
-    fontawesome_icon_name                 : fa-cake-candles
+    fontawesome_icon_name                 : fa-birthday-cake
     
   - title                                 : Tax and Tip 
     description                           : Adjustable tax and tip rates
-    fontawesome_icon_name                 : fa-hand-holding-dollar 
+    fontawesome_icon_name                 : fa-dollar 
     
   - title                                 : Share Food Costs Easily
     description                           : Share food with one person in the group or with everyone in the group and split the cost only for those who need to pay.
-    fontawesome_icon_name                 : fa-champagne-glasses
+    fontawesome_icon_name                 : fa-users
     
   - title                                 : Meal Total Easily Accessible
     description                           : Meal and diner bill totals are easily accessible with a simple swipe up
