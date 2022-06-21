@@ -8,15 +8,9 @@ include_in_header: false
 June 20, 2022
 
 # Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
-
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
-
 <br>
 
-**Privacy Policy**
-
-Jeffrey Lai built the PocketDiner app as a Free app. This SERVICE is provided by Jeffrey Lai at no cost and is intended for use as is.
+This privacy notice is for Jeffrey Lai, who has built the PocketDiner app as a Free app. This SERVICE is provided by Jeffrey Lai at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
