@@ -14,5 +14,5 @@ PocketDiner Features:
 
 # Links
 - [PocketDiner](https://ecmscs.github.io/pocketDiner/)
-- [Privacy Polict](https://ecmscs.github.io/pocketDiner/privacypolicy/)
+- [Privacy Policy](https://ecmscs.github.io/pocketDiner/privacypolicy/)
 - [What's New](https://ecmscs.github.io/pocketDiner/changelog/)
