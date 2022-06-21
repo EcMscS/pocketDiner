@@ -12,8 +12,8 @@ Want to know what has changed in PocketDiner.  Check out the versions below.
 ### `Latest`
 ### **Version 2.0.1**
 It's a new year! Time for a small update.
-1) iOS 14 compatibility
-2) Cleaning out a few bugs
+- iOS 14 compatibility
+- Cleaning out a few bugs
 
 <br>
 ### **Version 2.0**
