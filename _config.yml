@@ -37,7 +37,7 @@ features                                  :
 
   - title                                 : Split Food Fairly
     description                           : This app is for you, when just dividing by the number people is too simple. Keep track of what everyone orders and what is shared.
-    fontawesome_icon_name                 : money-bill
+    fontawesome_icon_name                 : drumstick-bite
     
   - title                                 : Pay for what you ordered
     description                           : Split the bill and make everyone pay for what they ordered.
